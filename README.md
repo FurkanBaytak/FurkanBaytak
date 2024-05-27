@@ -1,35 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typewriter Effect</title>
-    <style>
-        .typewriter h3 {
-            font-family: monospace;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 0.15em solid orange;
-            animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
-        }
+<a href="https://komarev.com/ghpvc/?username=FurkanBaytak">
+  <img align="right" src="https://komarev.com/ghpvc/?username=FurkanBaytak&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-        @keyframes typing {
-            from { width: 0 }
-            to { width: 100% }
-        }
-
-        @keyframes blink-caret {
-            from, to { border-color: transparent }
-            50% { border-color: orange; }
-        }
-    </style>
-</head>
-<body>
-
-<div class="typewriter">
-    <h3>&gt; Hey There!, I am <b><a target="_blank" href="https://github.com/FurkanBaytak">Furkan BAYTAK</a></b></h3>
-</div>
-
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/FurkanBaytak">Furkan BAYTAK</a></b>
+        </samp>
+</h3>
 <p align="center"> 
   <samp>
     <br>
@@ -119,6 +97,3 @@
 
 
 ![Furkan BAYTAK's Graph](https://github-readme-activity-graph.vercel.app/graph?username=FurkanBaytak&custom_title=Furkan%20BAYTAK's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-</body>
-</html>
