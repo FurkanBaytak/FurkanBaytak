@@ -1,4 +1,9 @@
-![Hello World!](https://typograssy.deno.dev/api?text=Hello%20world!&l1=060526&l2=710941&l3=67093b&l4=420526&speed=233&comment=Furkan%20BAYTAK)
+<div align="center">
+
+  ![Hello World!](https://typograssy.deno.dev/api?text=Hello%20world!&l0=1d2430&l1=850505&l2=710941&l3=67093b&l4=420526&bg=0d1117&frame=0d1117&speed=227&comment=)
+
+</div>
+
 <a href="https://komarev.com/ghpvc/?username=FurkanBaytak">
   <img align="right" src="https://komarev.com/ghpvc/?username=FurkanBaytak&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
