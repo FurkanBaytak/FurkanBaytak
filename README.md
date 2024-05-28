@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ![Hello World!](https://typograssy.deno.dev/api?text=Hello%20world!&l0=1d2430&l1=850505&l2=710941&l3=67093b&l4=420526&bg=0d1117&frame=0d1117&speed=227&comment=)
+  ![Hello World!](https://typograssy.deno.dev/api?text=Hello%20world!&l0=1d2430&l1=850505&l2=710941&l3=67093b&l4=420526&bg=0d1117&frame=0d1117&speed=10&comment=)
 
 </div>
 
@@ -12,7 +12,7 @@
 <div align="center">
 
 &gt;
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=20&lines=Hey+There+!+I'm+Furkan+BAYTAK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=20&lines=Hey+There+!+I'm+Furkan+BAYTAK)](https://github.com/FurkanBaytak)
 </div>
 
 <p align="center"> 
