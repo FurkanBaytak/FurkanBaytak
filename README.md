@@ -21,7 +21,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 3rd Year <b>Computer Engineering</b> Student • Manisa Celal Bayar University 」
+    「 4th Year <b>Computer Engineering</b> Student • Manisa Celal Bayar University 」
     <br>
     <br>
   </samp>
