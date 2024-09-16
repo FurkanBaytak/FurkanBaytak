@@ -70,7 +70,7 @@
 [![Data-Point-Digitizer](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=Data-Point-Digitizer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FurkanBaytak/Data-Point-Digitizer)
 [![YKS-Mobil-Sinav](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=YKS-Mobil-Sinav&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FurkanBaytak/YKS-Mobil-Sinav)
 [![VR-PC-Build](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=VR-PC-Build&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FurkanBaytak/VR-PC-Build)
-[![multivariate-var-rnn-lstm-forecasting](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=multivariate-var-rnn-lstm-forecasting&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FurkanBaytak/multivariate-var-rnn-lstm-forecasting)
+[![scale-event-starting](https://github-readme-stats.vercel.app/api/pin/?username=FurkanBaytak&repo=scale-event-starting&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/FurkanBaytak/scale-event-starting)
 
 </div>
 
