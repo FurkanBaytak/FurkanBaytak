@@ -21,7 +21,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 4th Year <b>Computer Engineering</b> Student • Manisa Celal Bayar University 」
+    「 <b>Game Developer</b> • Vellichor Games 」
     <br>
     <br>
   </samp>
