@@ -21,7 +21,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 <b>Game Developer</b> • Vellichor Games 」
+    「 <b>Game Developer</b> • 」
     <br>
     <br>
   </samp>
