@@ -157,10 +157,6 @@ jam:       GMTK 2024 - top-down shooter shipped in 96 hours
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=FurkanBaytak&theme=default&hide_border=true" height="165px" />
 </picture>
 
-<br><br>
-
-<img alt="Contribution Graph" src="https://ghchart.rshah.org/7F3FBF/FurkanBaytak" width="90%" />
-
 </div>
 
 <!--
@@ -178,5 +174,5 @@ jam:       GMTK 2024 - top-down shooter shipped in 96 hours
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,55:7F3FBF,100:0D1117&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7F3FBF,100:0D1117&height=60&section=footer&text=Game%20Developer%20%40%20Paxie%20Games&fontColor=FFFFFF&fontSize=20&fontAlignY=55" alt="Game Developer @ Paxie Games" />
 </div>
