@@ -25,11 +25,11 @@ role:      Game Developer @ Paxie Games
 engines:   [Unity, Unreal Engine, Godot]
 focus:     gameplay systems · enemy AI · VR · editor tooling
 also:      Flutter apps, Python tooling, time-series ML
-jam:       GMTK 2024 — top-down shooter shipped in 96 hours
+jam:       GMTK 2024 - top-down shooter shipped in 96 hours
 ```
 
 - Building games professionally at **[Paxie Games](https://paxiegames.com)**
-- I like the unglamorous parts — **editor tools**, AI behaviour, and systems other devs build on top of
+- I like the unglamorous parts - **editor tools**, AI behaviour, and systems other devs build on top of
 - Shipped **VR** projects in both Unity and Unreal
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/baytakfurkan/)**
 
@@ -68,12 +68,12 @@ jam:       GMTK 2024 — top-down shooter shipped in 96 hours
 
 | Project | Stack | What it is |
 | :-- | :-- | :-- |
-| **[Anvil and Ashes](https://github.com/FurkanBaytak/Anvil-and-Ashes)** | `Unity` `C#` | Tactical adventure with strategic weapon crafting — forge gear, lead adventurers, survive the run |
-| **[Scale Event Starting](https://github.com/FurkanBaytak/Scale-Event-Starting)** | `Unity` `C#` | Top-down shooter built in **96 hours** for **GMTK 2024** — theme: *Build to Scale* |
-| **[Unreal Engine 5.4 Enemy AI](https://github.com/FurkanBaytak/Unreal-Engine-5.4-EnemyAI-System)** | `Unreal 5.4` | Enemy behaviour system — perception, state handling and combat decision-making |
+| **[Anvil and Ashes](https://github.com/FurkanBaytak/Anvil-and-Ashes)** | `Unity` `C#` | Tactical adventure with strategic weapon crafting - forge gear, lead adventurers, survive the run |
+| **[Scale Event Starting](https://github.com/FurkanBaytak/Scale-Event-Starting)** | `Unity` `C#` | Top-down shooter built in **96 hours** for **GMTK 2024** - theme: *Build to Scale* |
+| **[Unreal Engine 5.4 Enemy AI](https://github.com/FurkanBaytak/Unreal-Engine-5.4-EnemyAI-System)** | `Unreal 5.4` | Enemy behaviour system - perception, state handling and combat decision-making |
 | **[VR Bowling Game](https://github.com/FurkanBaytak/Unreal-Engine-VR-Bowling-Game)** | `Unreal 5.2` `VR` | Room-scale VR bowling with physics-driven throwing |
-| **[VR PC Build](https://github.com/FurkanBaytak/VR-PC-Build)** | `Unity` `VR` `C#` | Build a PC part by part in VR — component sockets, validation, assembly flow |
-| **[First Aid Scenarios](https://github.com/FurkanBaytak/First-Aid-Scenarios)** | `Unity` `C#` | Serious game — click-and-play first aid situations with scoring |
+| **[VR PC Build](https://github.com/FurkanBaytak/VR-PC-Build)** | `Unity` `VR` `C#` | Build a PC part by part in VR - component sockets, validation, assembly flow |
+| **[First Aid Scenarios](https://github.com/FurkanBaytak/First-Aid-Scenarios)** | `Unity` `C#` | Serious game - click-and-play first aid situations with scoring |
 | **[Cards &amp; Dices](https://github.com/FurkanBaytak/Cards-Dices)** | `Unity` `C#` | Card and dice based tabletop game |
 | **[Survivor Game](https://github.com/FurkanBaytak/SurvivorGame)** | `Godot` `GDScript` | Survivors-like built to learn the Godot engine |
 
